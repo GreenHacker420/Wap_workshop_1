@@ -23,3 +23,7 @@ dist-ssr
 *.sln
 *.sw?
 .env
+pocketbase_0.26.6_darwin_arm64/pb_data
+pocketbase_0.26.6_darwin_arm64/pb_migrations
+pocketbase_0.26.6_darwin_arm64/pb_data/auxiliary.db
+pocketbase_0.26.6_darwin_arm64/pb_data/data.db
